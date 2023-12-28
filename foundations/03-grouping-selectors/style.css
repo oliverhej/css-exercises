@@ -1,0 +1,17 @@
+.button{
+    border-color:black;
+    border-width:5px;
+    border-style:inset;
+    font-size:50px;
+    font-family:Helvetica,"Times New Roman", sans-serif;
+}
+
+#first{
+    background-color:black;
+    color:white;
+    font-weight:bold;
+}
+
+#second{
+    background-color:yellow;
+}
